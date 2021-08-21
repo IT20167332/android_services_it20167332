@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Services_IT20167332</string>
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Android_Services_IT20167332"
+include ':app'
